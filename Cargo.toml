@@ -1,6 +1,6 @@
 [package]
 name = "animals"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A Rust project for animals."
 documentation = "https://docs.rs/animals"
