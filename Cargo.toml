@@ -1,0 +1,10 @@
+[package]
+name = "animals"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust project for animals."
+documentation = "https://docs.rs/animals"
+repository = "https://github.com/engineersforanimals/animals.git"
+license = "Apache-2.0"
+
+[dependencies]
